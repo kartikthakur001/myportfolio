@@ -1,0 +1,46 @@
+body{
+    font-family: "Satisfy", cursive;
+    font-style: normal;
+    color: black;
+    background-color: rgb(231, 74, 12);
+}
+.links a{
+    text-decoration: none;
+}
+.links a:hover{
+    color: rgb(9, 245, 166);
+}
+.one{
+    background-color: rgb(9, 234, 241);
+}
+.one a{
+    color: rgb(0, 0, 0);
+}
+.one a:hover{
+    color: gold;
+}
+ .photo img{
+    width: 200px;
+    height: 200px;
+ }
+#Education ul{
+    list-style-image: url(/practice/icons8-graduation-cap-50.png);
+}
+#Projects ul{
+    list-style-image: url(/practice/icons8-projects-50.png);
+}
+#Internships ul{
+    list-style-image: url(/practice/icons8-internship-50.png);
+}
+#Accomplishments ul{
+    list-style-image: url(/practice/icons8-accomplishment-50.png);
+}
+#Certifications ul{
+    list-style-image: url(/practice/icons8-certification-50.png);
+}
+#activity ul{
+    list-style-image: url(/practice/icons8-hobby-25.png);
+}
+#skills ul{
+    list-style-image: url(/practice/icons8-skills-25.png);
+}
