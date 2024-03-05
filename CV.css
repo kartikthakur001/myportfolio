@@ -2,7 +2,7 @@ body {
     font-family: "Satisfy", cursive;
     font-style: normal;
     text-shadow:1px 1px  rgb(32, 8, 56);
-    background-image: url(/Red-dash.jpg);
+    background-image: url(Red-dash.jpg);
     background-repeat: no-repeat;
     background-size:100% 100%;  
 }
@@ -39,7 +39,7 @@ a:hover{
     padding-top: 50px;
     font-size:30px;
     font-weight: bolder;
-    background-image:url(/sun-8553511_1280.jpg);
+    background-image:url(sun-8553511_1280.jpg);
     color: brown;
     background-size:cover;
     background-position: 50%;
